@@ -4,5 +4,4 @@ include 'Spigot'
 include 'Vault'
 include 'Citizens'
 include 'Command'
-include 'Scoreboard'
 
